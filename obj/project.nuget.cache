@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6z5y1UnSBuAZau22CssPnM4iZcMZ47jtNiHnexiPhc66DHT8E8P0/aD+ot5NnygYIYrMrerajLVIBapwkHGgWQ==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Documents/amal/explore/web dashboard/VodusTA/VodusTA.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512",
+    "/Users/apple/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
